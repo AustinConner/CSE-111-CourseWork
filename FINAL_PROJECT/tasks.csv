@@ -1,8 +1,0 @@
-taskID,title,priority,location,preferred_start_time,time_estimate,max_end_date,max_end_time,complete
-task_1753067599,Pay monthly credit card bill,1,Online,09:00 AM,15m,2025-07-30,11:59 PM,
-task_1753067600,Buy groceries for the week,2,Grocery Store,06:00 PM,1h,2025-07-22,09:00 PM,Complete
-task_1753067601,Return library books,4,City Library,,30m,2025-08-01,05:00 PM,
-task_1753067602,Schedule dentist appointment,2,Phone,10:30 AM,15m,2025-07-25,04:30 PM,
-task_1753067603,Deep clean the kitchen,3,Home,,2h 30m,2025-07-27,08:00 PM,
-task_1753067604,Plan weekend trip,5,Home Office,08:00 PM,2h,2025-07-24,10:00 PM,
-task_1753067605,Renew driver's license,1,DMV Website,01:00 PM,45m,2025-08-15,05:00 PM,
