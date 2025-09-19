@@ -1,0 +1,3 @@
+taskID,title,priority,location,preferred_start_time,time_estimate,max_end_date,max_end_time,complete
+task_101,First Task from File,1,Home,09:00 AM,1h,2025-12-01,05:00 PM,
+task_102,Second Task from File,3,Office,10:00 AM,2h,2025-12-02,06:00 PM,Complete
